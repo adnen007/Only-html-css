@@ -5,7 +5,7 @@
 - take a clone of repository from the romete hosting server(github) to your local server
 
   - go to the directory that you what to store the repository in it and type
-    `git clone http(of the repositry)` .'key'
+    `git clone http(of the repositry)` .'Keyy'
 
 - you can call `git status and it will tell you about all the files that you modified or added`
 
