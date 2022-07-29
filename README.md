@@ -9,4 +9,4 @@
 
 - you can call `git status and it will tell you about all the files that you modified or added`
 
-# the opposite made repo in the local and save it in remote
+# the opposite made repo in the local and save it in remot
